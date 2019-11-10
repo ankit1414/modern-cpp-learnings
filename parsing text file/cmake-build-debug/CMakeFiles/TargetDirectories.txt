@@ -1,0 +1,3 @@
+/home/ankit/CLionProjects/parsing text file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ankit/CLionProjects/parsing text file/cmake-build-debug/CMakeFiles/parsing_text_file.dir
+/home/ankit/CLionProjects/parsing text file/cmake-build-debug/CMakeFiles/edit_cache.dir

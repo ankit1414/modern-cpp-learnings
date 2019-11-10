@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/reading_and_writing_to_binary_file.dir/main.cpp.o  -o reading_and_writing_to_binary_file 

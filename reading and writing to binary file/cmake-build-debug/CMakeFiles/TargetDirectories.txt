@@ -1,0 +1,3 @@
+/home/ankit/CLionProjects/reading and writing to binary file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ankit/CLionProjects/reading and writing to binary file/cmake-build-debug/CMakeFiles/reading_and_writing_to_binary_file.dir
+/home/ankit/CLionProjects/reading and writing to binary file/cmake-build-debug/CMakeFiles/edit_cache.dir

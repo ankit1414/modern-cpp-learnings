@@ -1,0 +1,3 @@
+/home/ankit/CLionProjects/custrom exceptions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ankit/CLionProjects/custrom exceptions/cmake-build-debug/CMakeFiles/custrom_exceptions.dir
+/home/ankit/CLionProjects/custrom exceptions/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/ankit/CLionProjects/writing to text file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ankit/CLionProjects/writing to text file/cmake-build-debug/CMakeFiles/writing_to_text_file.dir
+/home/ankit/CLionProjects/writing to text file/cmake-build-debug/CMakeFiles/edit_cache.dir
