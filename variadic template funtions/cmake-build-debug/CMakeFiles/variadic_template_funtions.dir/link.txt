@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/variadic_template_funtions.dir/main.cpp.o  -o variadic_template_funtions 
